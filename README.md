@@ -16,9 +16,12 @@ This script gives macOS one of my favorite features of Linux's GNOME Desktop Env
 
 4) Paste the contents of `script.lua` into the opened config file
 
-5) Save the file and click on the hammerspoon icon again and select reload config
+`https://github.com/VilktorK/Scroll-Through-Spaces-MacOS/releases/latest`
+ 
 
-6) You can now scroll though spaces when the mouse hoveringover over the menu bar
+8) Save the file and click on the hammerspoon icon again and select reload config
+
+9) You can now scroll though spaces when the mouse hoveringover over the menu bar
 
 # Considerations
 

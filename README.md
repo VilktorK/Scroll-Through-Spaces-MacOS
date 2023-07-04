@@ -1,4 +1,4 @@
 # Scroll Through Spaces on MacOS WIP
-When the users mouse is on the top bar scrolling will move through spaces
+When the user's mouse is on the menu bar, scrolling will move through spaces.
 
 Requires Hammerspoon
